@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - Hi there  I am a passionate about learning new technology.
 - I'm currently revisiting concepts of core Java.
-- I am currently working on building a Shoe Shop Management Website with 
+- I am currently working on building a Shoe Shop Management Website with Java backend
